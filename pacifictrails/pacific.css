@@ -4,9 +4,6 @@ body { background-color: #FFFFFF;
       color: #666666;
 	  font-family: Arial, Helvetica, sans-serif;
 }
-.warning {
-	color:yellow;
-}
 #wrapper { margin-left: auto;
            margin-right: auto;
 		   width: 80%;
@@ -14,7 +11,7 @@ body { background-color: #FFFFFF;
 		   background-color: #90C7E3;
 }
 .warning {
-	color:blue;
+	color:yellow;
 }
 header { background-color: #000033;
        background-image: url(sunset.jpg);
