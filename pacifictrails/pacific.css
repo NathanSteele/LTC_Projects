@@ -10,6 +10,9 @@ body { background-color: #FFFFFF;
 		   min-width: 960px;
 		   background-color: #90C7E3;
 }
+.warning {
+	color:blue;
+}
 header { background-color: #000033;
        background-image: url(sunset.jpg);
 	   background-position: right;
